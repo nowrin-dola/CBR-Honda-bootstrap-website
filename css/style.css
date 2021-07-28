@@ -1,0 +1,15 @@
+.header-background{
+    background-color: #264653;
+    ;
+
+}
+
+.grayscale{
+    filter: grayscale(100%);
+}
+
+.fa-star.filled{
+    color:#E76F51;
+}
+.fa-star.empty{
+    color: #AEAEAE;
