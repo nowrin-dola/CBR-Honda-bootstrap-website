@@ -1,15 +1,45 @@
-.header-background{
-    background-color: #264653;
-    ;
-
+body{
+    font-family: 'Poppins', sans-serif;
 }
 
+/* Header Styles */
+
+.header-background{
+    background-color: #264653;
+    
+
+}
+.left-side:hover{
+    text-decoration: underline;
+    color: rgb(215, 238, 238);
+}
+
+.btn-bg-color{
+    background-color: #E76F51;
+    width: 168px;
+    height: 44px;
+
+}
+/* featured part styles */
 .grayscale{
     filter: grayscale(100%);
 }
 
+
+.cbr-text-color{
+    color: #E76F51;
+}
+ 
+/* icon styles */
 .fa-star.filled{
     color:#E76F51;
 }
 .fa-star.empty{
     color: #AEAEAE;
+}
+
+.form-background-color{
+    background-color: #264653;
+
+}
+
